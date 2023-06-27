@@ -1,6 +1,7 @@
 package com.Spring2020.Project;
 
-// Julio Barajas Solo
+// Julio Barajas
+
 public class CoffeeMakerDriver {
     public static void main(String[] args) {
 
